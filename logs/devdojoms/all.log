@@ -1,0 +1,70 @@
+2019-04-20 13:42:50,264 INFO  [restartedMain] DevdojomicroservicesApplication : Starting DevdojomicroservicesApplication on alexsandro-XPS-L421X with PID 19102 (/home/alexsandro/devdojo-microservices/target/classes started by alexsandro in /home/alexsandro/devdojo-microservices)
+2019-04-20 13:42:50,269 INFO  [restartedMain] DevdojomicroservicesApplication : No active profile set, falling back to default profiles: default
+2019-04-20 13:42:50,374 INFO  [restartedMain] DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-04-20 13:42:50,375 INFO  [restartedMain] DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-04-20 13:42:51,763 INFO  [restartedMain] RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-20 13:42:51,843 INFO  [restartedMain] RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 66ms. Found 1 repository interfaces.
+2019-04-20 13:42:52,363 INFO  [restartedMain] PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$33d2465f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-20 13:42:52,388 INFO  [restartedMain] PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$b3529391] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-20 13:42:52,997 INFO  [restartedMain] TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2019-04-20 13:42:53,030 INFO  [restartedMain] StandardService : Starting service [Tomcat]
+2019-04-20 13:42:53,030 INFO  [restartedMain] StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-20 13:42:53,128 INFO  [restartedMain] [/] : Initializing Spring embedded WebApplicationContext
+2019-04-20 13:42:53,552 INFO  [restartedMain] HikariDataSource : HikariPool-1 - Starting...
+2019-04-20 13:42:53,675 INFO  [restartedMain] HikariDataSource : HikariPool-1 - Start completed.
+2019-04-20 13:42:54,702 INFO  [restartedMain] LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-20 13:42:54,799 INFO  [restartedMain] OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-04-20 13:42:55,941 INFO  [restartedMain] ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-20 13:42:56,004 WARN  [restartedMain] JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-20 13:42:56,631 INFO  [restartedMain] TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-20 13:42:56,636 INFO  [restartedMain] DevdojomicroservicesApplication : Started DevdojomicroservicesApplication in 7.238 seconds (JVM running for 8.744)
+2019-04-20 14:07:28,634 INFO  [Thread-24] ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-20 14:07:28,636 INFO  [Thread-24] LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-04-20 14:07:28,644 INFO  [Thread-24] HikariDataSource : HikariPool-1 - Shutdown initiated...
+2019-04-20 14:07:28,658 INFO  [Thread-24] HikariDataSource : HikariPool-1 - Shutdown completed.
+2019-04-20 14:07:35,957 INFO  [restartedMain] DevdojomicroservicesApplication : Starting DevdojomicroservicesApplication on alexsandro-XPS-L421X with PID 20298 (/home/alexsandro/devdojo-microservices/target/classes started by alexsandro in /home/alexsandro/devdojo-microservices)
+2019-04-20 14:07:35,964 INFO  [restartedMain] DevdojomicroservicesApplication : No active profile set, falling back to default profiles: default
+2019-04-20 14:07:36,176 INFO  [restartedMain] DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-04-20 14:07:36,178 INFO  [restartedMain] DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-04-20 14:07:38,903 INFO  [restartedMain] RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-20 14:07:39,015 INFO  [restartedMain] RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 93ms. Found 1 repository interfaces.
+2019-04-20 14:07:39,542 INFO  [restartedMain] PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1a37879c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-20 14:07:39,568 INFO  [restartedMain] PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$99b7d4ce] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-20 14:07:40,148 INFO  [restartedMain] TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2019-04-20 14:07:40,179 INFO  [restartedMain] StandardService : Starting service [Tomcat]
+2019-04-20 14:07:40,180 INFO  [restartedMain] StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-20 14:07:40,269 INFO  [restartedMain] [/] : Initializing Spring embedded WebApplicationContext
+2019-04-20 14:07:40,694 INFO  [restartedMain] HikariDataSource : HikariPool-1 - Starting...
+2019-04-20 14:07:40,852 INFO  [restartedMain] HikariDataSource : HikariPool-1 - Start completed.
+2019-04-20 14:07:41,992 INFO  [restartedMain] LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-20 14:07:42,108 INFO  [restartedMain] OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-04-20 14:07:43,773 INFO  [restartedMain] ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-20 14:07:43,835 WARN  [restartedMain] JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-20 14:07:44,448 INFO  [restartedMain] TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-20 14:07:44,453 INFO  [restartedMain] DevdojomicroservicesApplication : Started DevdojomicroservicesApplication in 9.706 seconds (JVM running for 10.983)
+2019-04-20 14:53:04,397 INFO  [Thread-26] ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-20 14:53:04,401 INFO  [Thread-26] LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-04-20 14:53:04,409 INFO  [Thread-26] HikariDataSource : HikariPool-1 - Shutdown initiated...
+2019-04-20 14:53:04,433 INFO  [Thread-26] HikariDataSource : HikariPool-1 - Shutdown completed.
+2019-04-20 14:53:08,605 INFO  [restartedMain] DevdojomicroservicesApplication : Starting DevdojomicroservicesApplication on alexsandro-XPS-L421X with PID 21194 (/home/alexsandro/devdojo-microservices/target/classes started by alexsandro in /home/alexsandro/devdojo-microservices)
+2019-04-20 14:53:08,612 INFO  [restartedMain] DevdojomicroservicesApplication : No active profile set, falling back to default profiles: default
+2019-04-20 14:53:08,718 INFO  [restartedMain] DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-04-20 14:53:08,719 INFO  [restartedMain] DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-04-20 14:53:09,875 INFO  [restartedMain] RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-20 14:53:09,949 INFO  [restartedMain] RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 60ms. Found 1 repository interfaces.
+2019-04-20 14:53:10,440 INFO  [restartedMain] PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dfb4cdf5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-20 14:53:10,465 INFO  [restartedMain] PostProcessorRegistrationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$5f351b27] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-20 14:53:11,020 INFO  [restartedMain] TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+2019-04-20 14:53:11,046 INFO  [restartedMain] StandardService : Starting service [Tomcat]
+2019-04-20 14:53:11,047 INFO  [restartedMain] StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-20 14:53:11,142 INFO  [restartedMain] [/] : Initializing Spring embedded WebApplicationContext
+2019-04-20 14:53:11,576 INFO  [restartedMain] HikariDataSource : HikariPool-1 - Starting...
+2019-04-20 14:53:11,693 INFO  [restartedMain] HikariDataSource : HikariPool-1 - Start completed.
+2019-04-20 14:53:12,719 INFO  [restartedMain] LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-20 14:53:12,815 INFO  [restartedMain] OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-04-20 14:53:13,981 INFO  [restartedMain] ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-20 14:53:14,043 WARN  [restartedMain] JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-20 14:53:14,646 INFO  [restartedMain] TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-20 14:53:14,650 INFO  [restartedMain] DevdojomicroservicesApplication : Started DevdojomicroservicesApplication in 7.054 seconds (JVM running for 8.275)
+2019-04-20 14:57:17,657 INFO  [http-nio-8080-exec-2] [/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-20 14:57:17,769 INFO  [http-nio-8080-exec-2] CourseController : Titulo:Course of test register 1
